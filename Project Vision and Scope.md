@@ -43,22 +43,22 @@ Date: 09.10.2026
    - How our proposed system differs
 
 2. Vision and Scope
-      2.1 WE ARE $oftware ¢orp.
-      2.2 Project Acquisition
-      2.3 Project Vision
-      2.4 Preliminary Scope
+   - WE ARE $oftware ¢orp.
+   - Project Acquisition
+   - Project Vision
+   - Preliminary Scope
 
 3. SRS
-      3.1 Purpose
-      3.2 Scope
-      3.3 Overall Description
-          - Users
-          - System Environment
-          - Constraints
-          - Assumptions
-      3.4 Functional Requirements
-      3.5 Non-Functional Requirements
-      3.6 Use Cases
+   - Purpose
+   - Scope
+   - Overall Description
+      - Users
+       - System Environment
+       - Constraints
+       - Assumptions
+   - Functional Requirements
+   - Non-Functional Requirements
+   - Use Cases
       1. User Registration
       2. User Login and Authentication
       3. Search for Parking
