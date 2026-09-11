@@ -58,7 +58,7 @@ Date: 09.10.2026
        - Assumptions
    - Functional Requirements
    - Non-Functional Requirements
-   3.1 Use Cases
+   <br>3.1 Use Cases
       1. User Registration
       2. User Login and Authentication
       3. Search for Parking
