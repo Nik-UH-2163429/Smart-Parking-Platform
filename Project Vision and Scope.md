@@ -58,20 +58,20 @@ Date: 09.10.2026
        - Assumptions
    - Functional Requirements
    - Non-Functional Requirements
-<br> 3.1 Use Cases
+### 3.1 Use Cases
 
-1. User Registration
-2. User Login and Authentication
-3. Search for Parking
-4. View Real-Time Parking Availability
-5. View Parking Locations on Interactive Map
-6. View Parking Facility Details
-7. Save and Modify Payment Mathods
-8. Navigate to a Parking Facility
-9. Pay for Parking
-10. View and Download Payment Receipts
-11. Receive Parking Notifications and Alerts
-12. Parking Operator Manages Parking Availability
-13. Parking Operator Views Occupancy Analytics
-14. Parking Operator Manages Pricing
-15. System Administrator Manages User Accounts
+   1. User Registration
+   2. User Login and Authentication
+   3. Search for Parking
+   4. View Real-Time Parking Availability
+   5. View Parking Locations on Interactive Map
+   6. View Parking Facility Details
+   7. Save and Modify Payment Mathods
+   8. Navigate to a Parking Facility
+   9. Pay for Parking
+   10. View and Download Payment Receipts
+   11. Receive Parking Notifications and Alerts
+   12. Parking Operator Manages Parking Availability
+   13. Parking Operator Views Occupancy Analytics
+   14. Parking Operator Manages Pricing
+   15. System Administrator Manages User Accounts
