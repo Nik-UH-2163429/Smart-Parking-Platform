@@ -32,8 +32,8 @@ designed so that the platform could later expand to other cities.
 ## 3. Draft of SRS
 Software Requirements Specification
 Smart Parking Platform
-Version 1.0
-Date: 09.10.2026
+Version 1.1
+Date: 09.17.2026
 
 1. Existing Software Landscape
    - ParkHouston
