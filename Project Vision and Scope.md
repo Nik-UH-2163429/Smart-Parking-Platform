@@ -142,27 +142,10 @@ into major development components and the tasks required to complete them.
 
 ##4.2 Draft Project Timeline
 
-The following draft timeline identifies the planned development sequence
-for the Smart Parking Platform. The schedule is based on the Work Breakdown
-Structure and may be refined as the project progresses.
-
-### Project Schedule
-
-| Project Phase | Duration | Dependency |
-|---|---:|---|
-| Project Planning and Requirements | 2 weeks | None |
-| System Design | 2 weeks | Planning and Requirements |
-| Authentication Development | 2 weeks | System Design |
-| User / Operator Setup | 2 weeks | Authentication |
-| Operator Dashboard Development | 3 weeks | User / Operator Setup |
-| Driver Dashboard Development | 3 weeks | User / Operator Setup |
-| Payment System Development | 2 weeks | Driver Dashboard |
-| Reporting and Analytics | 2 weeks | Operator Dashboard |
-| System Integration | 2 weeks | Development Components |
-| System Testing | 2 weeks | System Integration |
-| User Acceptance Testing | 1 week | System Testing |
-| Production Deployment | 1 week | User Acceptance Testing |
-
 ### Gantt Chart
 
-*Smart Parking Platform Gantt chart will be inserted here.*
+The following Gantt chart provides a preliminary schedule for the
+development of the Smart Parking Platform. Some development activities
+overlap where work can be performed concurrently.
+
+![Smart Parking Platform Draft Gantt Chart](images/smart-parking-gantt-chart.png)
