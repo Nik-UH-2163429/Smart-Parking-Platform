@@ -1,1 +1,4 @@
-https://uofh-my.sharepoint.com/:v:/g/personal/njoffred_cougarnet_uh_edu/IQDqb-4OeZNMT7HMJ71UmibAAX3fjxK6HeE6qYTZz9R4jsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rIV1qf
+## Week 3 Stakeholder Update
+
+[Watch Week 1 Stakeholder Update]
+(https://uofh-my.sharepoint.com/:v:/g/personal/njoffred_cougarnet_uh_edu/IQDqb-4OeZNMT7HMJ71UmibAAX3fjxK6HeE6qYTZz9R4jsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rIV1qf)
