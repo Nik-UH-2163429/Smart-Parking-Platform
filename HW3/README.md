@@ -1,4 +1,4 @@
-# HW3 - Agile, Scrum, and Kanban
+# HW3 - Agile and Scrum
 
 ## Smart Parking Platform
 
