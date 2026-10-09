@@ -52,31 +52,31 @@ Each project activity has exactly one Accountable team member to ensure clear ow
 
 ## 5. Responsibility Assignment Explanation
 
-### Project Manager — Alex Carter
+### Project Manager — Luke Filyk
 
 The Project Manager is accountable for overall project coordination, scheduling, budget management, risk management, and stakeholder communication.
 
 The Project Manager also ensures that project deliverables meet established requirements and are completed within the planned timeline.
 
-### Software Developer — Jordan Lee
+### Software Developer - David Juro
 
 The Software Developer is responsible for implementing the Smart Parking Platform's core software functionality.
 
 Primary tasks include developing parking availability features, database functionality, backend services, and third-party API integrations.
 
-### UI/UX Designer — Taylor Morgan
+### UI/UX Designer — Jonathan Flores
 
 The UI/UX Designer is responsible for creating user-friendly interfaces and improving the overall user experience.
 
 The designer develops layouts, prototypes, and navigation workflows to help users interact efficiently with the parking platform.
 
-### QA Tester — Casey Brooks
+### QA Tester — Jose Santos
 
 The QA Tester is responsible for validating system functionality, identifying defects, and confirming that the platform meets project requirements.
 
 Testing includes functional verification, security checks, and performance evaluation.
 
-### DevOps Engineer — Riley Parker
+### DevOps Engineer — Parker Boles
 
 The DevOps Engineer is responsible for configuring cloud infrastructure, supporting deployment processes, and maintaining the technical environment.
 
