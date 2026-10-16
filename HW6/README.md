@@ -29,7 +29,3 @@ The goal is to ensure that project requirements, schedules, resources, costs, ri
 ## Project Management Approach
 
 GitHub serves as the central repository for project documentation and version control. Existing project management artifacts will be reviewed and updated to maintain consistency across the Smart Parking Platform.
-
-## Stakeholder Update
-
-A weekly stakeholder video will summarize completed documentation updates, changes to existing plans, and the reasoning behind those changes.
