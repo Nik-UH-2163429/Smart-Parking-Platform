@@ -14,17 +14,17 @@ The goal is to ensure that project requirements, schedules, resources, costs, ri
 
 ## Documents to Review
 
-- [ ] Software Requirements Specification (SRS)
-- [ ] User Stories
-- [ ] Work Breakdown Structure (WBS)
-- [ ] Project Timeline and Gantt Charts
-- [ ] Product Backlog
-- [ ] Sprint Planning and Jira/Trello Screenshots
-- [ ] Risk Register
-- [ ] Communication Plan
-- [ ] Project Roles
-- [ ] Cost Management Plan
-- [ ] RACI Matrix
+- Software Requirements Specification (SRS)
+- User Stories
+- Work Breakdown Structure (WBS)
+- Project Timeline and Gantt Charts
+- Product Backlog
+- Sprint Planning and Jira/Trello Screenshots
+- Risk Register
+- Communication Plan
+- Project Roles
+- Cost Management Plan
+- RACI Matrix
 
 ## Project Management Approach
 
