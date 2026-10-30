@@ -31,8 +31,8 @@ The team is committed to delivering quality work while maintaining accountabilit
 
 | Team Member | Role | Primary Responsibilities |
 |---|---|---|
-| Alex Carter | Project Manager | Oversees scheduling, planning, risk management, resource allocation, and stakeholder communication. |
-| Jordan Lee | Software Developer | Implements platform features, maintains source code, and resolves technical issues. |
+| Luke Filyk | Project Manager | Oversees scheduling, planning, risk management, resource allocation, and stakeholder communication. |
+| David Juro | Software Developer | Implements platform features, maintains source code, and resolves technical issues. |
 
 Additional development, testing, and reporting responsibilities will be assigned according to the existing Resource Plan and RACI Matrix.
 
@@ -127,7 +127,7 @@ All fictional project team members are expected to follow the responsibilities a
 
 The Team Charter may be updated if project requirements, stakeholder expectations, or team responsibilities change.
 
-**Project Manager:** Alex Carter  
-**Team Member:** Jordan Lee  
+**Project Manager:** Luke Filyk  
+**Team Member:** David Juro  
 **Project:** Smart Parking Platform  
 **Charter Status:** Proposed for academic project planning
