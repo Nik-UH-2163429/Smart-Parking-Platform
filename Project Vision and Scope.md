@@ -149,3 +149,71 @@ development of the Smart Parking Platform. Some development activities
 overlap where work can be performed concurrently.
 
 ![Smart Parking Platform Draft Gantt Chart](images/smart-parking-gantt-chart.png)
+
+---
+
+# HW8 – Project Closure Report
+
+**Classification:** INTERNAL – PROJECT DOCUMENTATION  
+**Project:** Smart Parking Platform  
+**Status:** Closure Report Draft  
+**Date:** November 5, 2026
+
+## 1. Executive Summary
+
+The Smart Parking Platform project was developed as a semester-long software project management initiative focused on designing a system that helps drivers locate available parking, navigate to parking facilities, and access parking management services.
+
+The project established a foundation for future software development through requirements gathering, project planning, resource allocation, cost estimation, risk management, stakeholder communication, and Agile project management practices.
+
+The primary accomplishments involved developing a structured project management plan and identifying the resources, responsibilities, and requirements necessary for implementation. Although the project documentation was developed, a fully functional and deployed parking platform has not been demonstrated as part of the current project scope.
+
+## 2. Achievements and Shortfalls
+
+### Achievements
+
+- Established the project's vision, objectives, and preliminary scope.
+- Developed initial software requirements and identified essential system features.
+- Organized development activities using an Agile product backlog.
+- Created resource allocation and cost management plans.
+- Established team responsibilities through a RACI matrix.
+- Developed risk management and stakeholder communication documentation.
+- Established procedures for monitoring progress and communicating project updates.
+
+### Shortfalls
+
+- The project primarily focused on planning and documentation rather than full software implementation.
+- Real-time parking availability, payment integration, and navigation functionality remain proposed capabilities.
+- Actual system performance, user satisfaction, and operational reliability have not yet been evaluated through a deployed pilot.
+- Future development would require additional validation of resource estimates, technical requirements, and implementation costs.
+
+## 3. Lessons Learned
+
+Throughout the project, several important lessons regarding software project management became apparent.
+
+First, clearly defining project requirements and scope is essential to avoiding confusion and unnecessary changes during development.
+
+Second, consistent communication among stakeholders helps identify potential issues early and ensures that project objectives remain aligned.
+
+Third, assigning responsibilities through resource plans and a RACI matrix establishes accountability and improves team organization.
+
+Finally, identifying risks early and using Agile project management techniques allows teams to adapt to changing requirements while maintaining focus on project objectives.
+
+## 4. Recommendations for Future Projects
+
+Future development of the Smart Parking Platform should prioritize implementing a minimum viable product before expanding into more advanced functionality.
+
+Initial development should focus on user authentication, parking location searches, and a basic parking availability interface.
+
+Additional features, including payment processing, real-time occupancy monitoring, and navigation integration, should be introduced through later development phases.
+
+Future teams should also conduct regular sprint reviews, maintain updated risk documentation, implement continuous software testing, and collect feedback from potential users and parking operators.
+
+A limited pilot deployment in Houston would provide an opportunity to evaluate performance, identify operational issues, and determine whether expansion into additional markets is feasible.
+
+## 5. Conclusion
+
+The Smart Parking Platform project established a structured foundation for planning and managing a software development initiative. The completed project management activities demonstrated the importance of defining requirements, allocating resources, managing risks, and communicating effectively with stakeholders.
+
+Although the proposed platform requires further development and testing before deployment, the planning documentation provides a starting point for future implementation and improvement.
+
+**Document Status:** Internal draft prepared for academic project closure review.
